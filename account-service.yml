@@ -1,5 +1,5 @@
 devguide:
-  greeting: "안녕하세요"
+  greeting: "여러분 안녕하세요"
 
 ---
 
@@ -23,4 +23,4 @@ spring:
   profiles: local
   
 devguide:
-  greeting: "여기 로컬 서버에 오신걸 환영합니다."
+  greeting: "로컬 서버에 오신걸 환영합니다."

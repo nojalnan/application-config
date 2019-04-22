@@ -1,1 +1,19 @@
-hello: "greeting"
+greeting: "운영 서버 상품서비스 입니다."
+
+---
+
+spring:
+  profiles: stage
+greeting: "스테이징 서버 상품서비스 입니다."
+
+---
+
+spring:
+  profiles: dev
+greeting: "개발 서버 상품서비스 입니다."
+
+---
+
+spring:
+  profiles: local
+greeting: "로컬 서버 상품서비스 입니다."

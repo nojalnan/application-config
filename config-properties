@@ -1,0 +1,7 @@
+ms-user
+	default
+		ms-user.yml
+	dev
+		ms-user.yml
+	prod
+		ms-user.yml
